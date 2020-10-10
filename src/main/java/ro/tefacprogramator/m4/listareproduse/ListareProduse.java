@@ -2,6 +2,7 @@ package ro.tefacprogramator.m4.listareproduse;
 
 public class ListareProduse {
     public String getName() {
-        return "";
+        String nume = "Produs1";
+        return nume;
     }
 }
